@@ -1,0 +1,33 @@
+license="${mod_license}"
+issueTrackerURL="https://github.com/SQR11211/BEStyleWither-26.2/issues"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+displayURL="https://github.com/SQR11211/BEStyleWither-26.2"
+bannerFile="logo.png"
+iconFile="assets/bestylewither/icon.png"
+authors="${mod_authors}"
+description='''
+This mod brings the behavior of Wither closer to Bedrock Edition.
+MC 26.2 NeoForge port with independent BE Wither entity summoned using 3 Skeleton Skulls + Soul Sand/Soil.
+'''
+
+[modproperties.${mod_id}]
+catalogueImageIcon = "assets/bestylewither/icon.png"
+configuredBackground = "minecraft:textures/block/bedrock.png"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"

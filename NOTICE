@@ -1,0 +1,27 @@
+BE Style Wither — Minecraft 26.2 NeoForge port
+
+Original work
+-------------
+  BEStyleWither
+  Copyright (C) MORIMORI0317
+  https://github.com/MORIMORI0317/BEStyleWither
+  Licensed under the GNU Lesser General Public License v3.0.
+
+This repository is a modified version of the original work. Modifications
+were made in November 2026 by SQR11211:
+
+  - Ported the mod to Minecraft 26.2 / NeoForge 26.2.0.95 (Java 25).
+  - Restructured the multi-loader project (common/fabric/neoforge) into a
+    single NeoForge project built with NeoForge ModDevGradle.
+  - Adapted and rewrote source files for the 26.2 API.
+  - Replaced the upstream mixin-based implementations with NeoForge
+    entity, goal, networking and client renderer implementations.
+  - Added an independent BE-style Wither entity summoned with 3 Skeleton
+    Skulls on Soul Sand / Soul Soil.
+
+This port is an unofficial community project and is not affiliated with or
+endorsed by MORIMORI0317.
+
+This modified work is distributed under the GNU Lesser General Public
+License v3.0, the same license as the original work. See LICENSE for the
+full license text.

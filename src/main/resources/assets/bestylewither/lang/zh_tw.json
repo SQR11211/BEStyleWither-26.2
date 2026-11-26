@@ -1,0 +1,15 @@
+{
+  "entity.bestylewither.be_wither": "凋零(bugrock edition)",
+  "entity.bestylewither.be_wither_skull": "凋零頭顱(bugrock edition)",
+  "entity.bestylewither.be_wither_skeleton": "凋零骷髏(bugrock edition)",
+  "text.autoconfig.bestylewither.title": "BE Style Wither",
+  "text.autoconfig.bestylewither.option.enableBounceBlueWitherSkull": "啟用藍色凋零頭顱反彈",
+  "text.autoconfig.bestylewither.option.enableMoreInertialBlueWitherSkull": "啟用較慢慣性的藍色凋零頭顱",
+  "text.autoconfig.bestylewither.option.enableShootMoreBlueWitherSkull": "啟用更頻繁發射藍色凋零頭顱",
+  "text.autoconfig.bestylewither.option.enableSpinAndWhiteSummon": "啟用召喚時旋轉與變白效果",
+  "text.autoconfig.bestylewither.option.enableExplodeByHalfHealth": "啟用半血時爆炸與召喚凋零骷髏",
+  "text.autoconfig.bestylewither.option.enableExplodeByDie": "啟用死亡時自爆效果",
+  "text.autoconfig.bestylewither.option.enableChargeAttack": "啟用衝撞攻擊",
+  "text.autoconfig.bestylewither.option.enableDoubleHealth": "啟用雙倍生命值",
+  "text.autoconfig.bestylewither.option.enableMaintainWeakenedState": "啟用維持半血護甲狀態"
+}
